@@ -13,4 +13,9 @@ public class Main {
         System.out.println(result);
     }
 
+    public void nameWriter(String name){
+
+        System.out.println("A neved :"+name);
+    }
+
 }
