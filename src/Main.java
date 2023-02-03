@@ -5,11 +5,11 @@ public class Main {
     }
 
     public void printSum(int a, int b){
-
+        System.out.println(a+b);
     }
 
     public void printProduct(int a, int b){
-        
+
     }
 
 }
