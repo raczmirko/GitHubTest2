@@ -23,6 +23,7 @@ public class Main {
 
     public void printHelloka(){
     System.out.println("Hello");
+        System.out.println("szeretem a tejet! És a kakaót is");
     }
 
 }
