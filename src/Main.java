@@ -21,7 +21,7 @@ public class Main {
         System.out.println(a%b);
     }
 
-    public void printHello(){
+    public void printHelloka(){
     System.out.println("Hello");
     }
 
