@@ -13,4 +13,8 @@ public class Main {
         System.out.println(result);
     }
 
+    public void printRemainder(int a, int b){
+        System.out.println(a%b);
+    }
+
 }
