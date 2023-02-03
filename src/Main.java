@@ -12,5 +12,9 @@ public class Main {
          int result=a*b;
         System.out.println(result);
     }
+    public void printName(String name){
+
+        System.out.println("A neved:"+name);
+    }
 
 }
