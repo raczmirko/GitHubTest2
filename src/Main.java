@@ -12,6 +12,10 @@ public class Main {
          int result=a*b;
         System.out.println(result);
     }
+    public void printName(String name){
+
+        System.out.println("A neved:"+name);
+    }
 
     public void printRemainder(int a, int b){
         System.out.println(a%b);
