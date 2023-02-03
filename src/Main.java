@@ -22,7 +22,8 @@ public class Main {
     }
 
     public void printHelloka(){
-    System.out.println("Hello");
+        System.out.println("Hello");
+        System.out.println("Szia Uram!");
     }
 
 }
